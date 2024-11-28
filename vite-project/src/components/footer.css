@@ -1,6 +1,6 @@
 .footer {
   background-color: #333333;
-  height: 120px;
+  height: 15vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -12,6 +12,5 @@
 }
 
 .text-container {
-  margin: 0 auto;
   width: 50%;
 }
